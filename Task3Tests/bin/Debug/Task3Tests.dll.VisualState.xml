@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1015]D:\Sources\EPAM.BSU.01.2016.Zikov.04\Task3Tests\bin\Debug\Task3Tests.dll</TopNode>
+  <SelectedNode>[0-1003]Task3Tests.CourseTests.Equals_Object_False</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1015]D:\Sources\EPAM.BSU.01.2016.Zikov.04\Task3Tests\bin\Debug\Task3Tests.dll" Expanded="true" />
+    <Node UniqueName="[0-1016]Task3Tests" Expanded="true" />
+    <Node UniqueName="[0-1000]Task3Tests.CourseTests" Expanded="true" />
+    <Node UniqueName="[0-1008]Task3Tests.PersonTests" Expanded="true" />
+  </Nodes>
+</VisualState>

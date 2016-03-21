@@ -1,0 +1,9 @@
+D:\Sources\EPAM.BSU.01.2016.Zikov.04\Task3Tests\bin\Debug\Task3Tests.dll
+D:\Sources\EPAM.BSU.01.2016.Zikov.04\Task3Tests\bin\Debug\Task3Tests.pdb
+D:\Sources\EPAM.BSU.01.2016.Zikov.04\Task3Tests\bin\Debug\nunit.framework.dll
+D:\Sources\EPAM.BSU.01.2016.Zikov.04\Task3Tests\bin\Debug\Task3.dll
+D:\Sources\EPAM.BSU.01.2016.Zikov.04\Task3Tests\bin\Debug\Task3.pdb
+D:\Sources\EPAM.BSU.01.2016.Zikov.04\Task3Tests\bin\Debug\nunit.framework.xml
+D:\Sources\EPAM.BSU.01.2016.Zikov.04\Task3Tests\obj\Debug\Task3Tests.csprojResolveAssemblyReference.cache
+D:\Sources\EPAM.BSU.01.2016.Zikov.04\Task3Tests\obj\Debug\Task3Tests.dll
+D:\Sources\EPAM.BSU.01.2016.Zikov.04\Task3Tests\obj\Debug\Task3Tests.pdb

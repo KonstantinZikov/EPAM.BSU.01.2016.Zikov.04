@@ -21,7 +21,7 @@ namespace Task2Tests
             Assert.AreEqual(4, ellipse.B, eps);
         }
 
-        [Test]
+        [Test] 
         public void Area_Nothing_CalculatedCorrectly()
         {
             //arrange
